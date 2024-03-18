@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=M%20Entendendo-Java&color=brown&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20Entendendo-Java&color=brown&style=for-the-badge"/>
 </p>
 
 <p align="center">
